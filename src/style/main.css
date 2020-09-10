@@ -1,5 +1,10 @@
-/* Paleta Principal */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+/* Paleta Principal */
 :root{
     --color1: #D9D9D9; 
     --color2: #A4A6A5; 
@@ -12,4 +17,19 @@
 
 body{
     font-family: 'Anonymous Pro', monospace;
+    background-image: url(../assets/bg-2.png);
+    background-position: center;
+    
 }
+
+a{
+    text-decoration: none;
+    color: var(--color4);
+}
+
+/* Color Theme Swatches in Hex */
+$Moda-1-hex: #A67D03;
+$Moda-2-hex: #8C5C03;
+$Moda-3-hex: #40290C;
+$Moda-4-hex: #8C4E18;
+$Moda-5-hex: #A6948D;

@@ -1,0 +1,42 @@
+header {
+    display: flex;
+   
+}
+
+.lhama img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 5em;
+    
+}
+
+    .logo img{
+        display: flex;
+        height: 5em;
+        width: auto;
+        margin-left: 2em;
+        margin-top: 1em;
+    }
+
+    .menu{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: space-between;
+        margin-left: auto;
+        margin-right: 3em;
+        margin-top: 3em;
+    }
+
+    .menu a{
+        line-height: 4em;
+    }
+
+    .menu a img{
+        width: auto;
+        height: 2.2em;
+    }
+
+        
