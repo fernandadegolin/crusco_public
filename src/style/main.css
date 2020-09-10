@@ -1,0 +1,15 @@
+/* Paleta Principal */
+
+:root{
+    --color1: #D9D9D9; 
+    --color2: #A4A6A5; 
+    --color3: #8B8C8C; 
+    --color4: #0C0D0C; 
+    --color5: #F2F2F2; 
+    --colorextra: #FA7F90;
+    --colorextra1: #F2C5BB;
+}
+
+body{
+    font-family: 'Anonymous Pro', monospace;
+}
