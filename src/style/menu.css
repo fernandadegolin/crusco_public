@@ -4,13 +4,13 @@ header {
    
 }
 
-     .logo img{
-        display: flex;
-        height: 5em;
-        width: auto;
-        margin-left: 2em;
-        margin-top: 1em;
-    }
+.logo img{
+    display: flex;
+    height: 5em;
+    width: auto;
+    margin-left: 2em;
+    margin-top: 1em;
+}
 
 .menu{
     display: flex;
