@@ -4,7 +4,7 @@ header {
    
 }
 
-    header .logo img{
+     .logo img{
         display: flex;
         height: 5em;
         width: auto;
@@ -41,7 +41,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: var(--color1-op);
+    background: var(--color4);
     box-shadow: 0px 0px 20px 2px rgba(0, 0, 0, 0.158);
     height: 5.5vh;
 }
