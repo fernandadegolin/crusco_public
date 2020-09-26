@@ -1,5 +1,6 @@
 https://fernandadegolin.github.io/crusco_public/
 
-Site profissional de portfólio
-`Produtora Audiovisual Jessica Crusco`
+<p> Site profissional de portfólio</p>
+
+`Produtora Audiovisual <strong> Jessica Crusco </strong>`
 
