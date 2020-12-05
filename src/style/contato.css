@@ -33,21 +33,27 @@ header {
     height: 82.7vh;    
 } 
 
-.contatos-traços{
+.contatos-traços-1{
     transform-origin: center 1px;
     width: 178px;
 } 
 
+.contatos-traços-2{
+    width: 178px;
+} 
+
+
 /* TESTE */
 
-#comp-90graus {
+#comp-90graus{
     position: relative;
     left: 2em;
     top: 2em;
     transform: rotate(90deg);
 }
 
-.style-90graus {
+.style-90graus,
+.style-90graus-1 {
     box-sizing: border-box;
     border-top: 1px solid rgba(0, 0, 0, 1);
     height: 10em;
@@ -59,7 +65,8 @@ header {
     transform: rotate(0deg);
 }
 
-.style-180graus {
+.style-180graus,
+.style-180graus-1 {
     box-sizing: border-box;
     border-top: 1px solid rgba(0, 0, 0, 1);
     height: 10em;
@@ -73,7 +80,7 @@ header {
 .titulo{
     margin-left: 14em;
     font-weight: bold;
-    margin-top: -5em;
+    margin-top: -3.8em;
 }
 
 /* FIM DE TESTE */
